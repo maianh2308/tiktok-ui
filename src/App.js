@@ -3,7 +3,6 @@ import { publicRoutes } from './routes';
 import DefaultLayout from './components/Layout/DefaultLayout';
 import { Fragment } from 'react';
 function App() {
-    const hihi = 'hihi';
     return (
         <Router>
             <div className="App">
